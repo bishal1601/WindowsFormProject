@@ -2,7 +2,7 @@
 
 namespace WinFormsApp1;
 
-partial class DashboardForm
+partial class DashboardForm2
 {
     /// <summary>
     /// Required designer variable.
@@ -34,7 +34,7 @@ partial class DashboardForm
         this.components = new System.ComponentModel.Container();
         this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
         this.ClientSize = new System.Drawing.Size(800, 450);
-        this.Text = "DashboardForm";
+        this.Text = "DashboardForm2";
     }
 
     #endregion

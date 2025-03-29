@@ -1,8 +1,8 @@
 ﻿namespace WinFormsApp1;
 
-public partial class DashboardForm : Form
+public partial class DashboardForm2 : Form
 {
-    public DashboardForm()
+    public DashboardForm2()
     {
         InitializeComponent();
     }
